@@ -1,0 +1,13 @@
+I created a Tableau Dashboard. Here is a link:
+
+https://public.tableau.com/app/profile/rebecca6543/viz/Tech_challenge_ironhack/Dashboard1?publish=yes
+
+My results so far are:
+- Both E10 and SP98 seem to be the same over all regarding consume/distance and consume/speed, so your company can change to E10 if you want to.
+- But for example with low average speed(below 20 km/h ) as well as around 40 km/h the consumption of E10 is higher
+- cosumption of SP98 is highest between 20-25 km/h
+
+With more time I would further investigate:
+- the influence of the weather
+- Which are the most used average speed?
+- How speed and distance are related to each other and to the consume together
